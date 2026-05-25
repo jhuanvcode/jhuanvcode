@@ -7,6 +7,9 @@
   <img src="https://raw.githubusercontent.com/jhuanvcode/jhuanvcode/languages-output/languages.svg" height="150" alt="languages graph"  />
 </div>
 
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=jhuanvcode&bg_color=000000&color=5021a6&line=ffffff&point=3900a3&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
 ## 🔵 Principal
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
